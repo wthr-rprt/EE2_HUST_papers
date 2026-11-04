@@ -3,7 +3,7 @@
 #### 1. Định nghĩa & Cấu trúc 
 - Tập số phức $\mathbb{C}$ là một trường số mở rộng từ $\mathbb{R}$, được xây dựng từ tập $\mathbb{R} \times \mathbb{R}$ với hai phép toán cộng và nhân đặc biệt. 
 - Đặt $i = (0, 1) \implies i^2 = -1$. 
-- ==***Đa thức bậc n có n nghiệm trong trường số phức***==
+- ==***Đa thức bậc n một ẩn có n nghiệm trong trường số phức***==
 #### 2. Dạng đại số (Chính tắc) 
 - Dạng biểu diễn: $z = a + bi \quad (a, b \in \mathbb{R})$. 
 - Số phức chia làm hai phần: Phần thực và Phần ảo
