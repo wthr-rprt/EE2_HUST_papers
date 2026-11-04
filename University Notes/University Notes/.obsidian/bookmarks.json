@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1790170274391,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1791385595460,
+          "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Tính khả vi.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1791385546178,
+          "path": "Đại cương/Đại số/Chương 2 Ma trận - Định thức - Hệ phương trình/Định thức.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1790170266141,
+          "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Ánh xạ.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1790740417493,
+          "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Đạo hàm và Vi phân.md"
+        }
+      ],
+      "title": "Nên học kỹ"
+    },
+    {
+      "type": "group",
+      "ctime": 1791945516432,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1792487285587,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1792487319598,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Hàm số.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792487354313,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Hàm ngược.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792487373715,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Vô cùng lớn, vô cùng bé.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792487393961,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Tính liên tục.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792487419637,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Tính khả vi.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792487443263,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Đạo hàm và Vi phân.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792489138498,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Logic.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792489156257,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Tập hợp.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792489170371,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Ánh xạ.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792489192145,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Số phức.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792489221710,
+              "path": "Đại cương/Đại số/Chương 2 Ma trận - Định thức - Hệ phương trình/Ma trận.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792489236574,
+              "path": "Đại cương/Đại số/Chương 2 Ma trận - Định thức - Hệ phương trình/Định thức.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1792489245767,
+              "path": "Đại cương/Đại số/Chương 2 Ma trận - Định thức - Hệ phương trình/Ma trận nghịch đảo và hạng ma trận.md"
+            }
+          ],
+          "title": "Các mục đặc biệt nên recheck"
+        },
+        {
+          "type": "group",
+          "ctime": 1791945595825,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1791945562652,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Logic.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945565981,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Tập hợp.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945559236,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Ánh xạ.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945561503,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Cấu trúc đại số.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945564629,
+              "path": "Đại cương/Đại số/Chương 1 Logic - Tập hơp - Ánh xạ - Số phức/Số phức.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945571612,
+              "path": "Đại cương/Đại số/Chương 2 Ma trận - Định thức - Hệ phương trình/Ma trận.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945572901,
+              "path": "Đại cương/Đại số/Chương 2 Ma trận - Định thức - Hệ phương trình/Ma trận nghịch đảo và hạng ma trận.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945569459,
+              "path": "Đại cương/Đại số/Chương 2 Ma trận - Định thức - Hệ phương trình/Định thức.md"
+            }
+          ],
+          "title": "Đại số"
+        },
+        {
+          "type": "group",
+          "ctime": 1791945607210,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1791945578911,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Hàm hyperbolic.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945584162,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Khảo sát hàm số, đường cong.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945585532,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Tính khả vi.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945588195,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Vô cùng lớn, vô cùng bé.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945582885,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Hàm số.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945581587,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Hàm ngược.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945580207,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Hàm lượng giác.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945577517,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Giới hạn.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945586846,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Tính liên tục.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1791945576271,
+              "path": "Đại cương/Giải tích 1/Chương 1 Hàm số một biến số/Đạo hàm và Vi phân.md"
+            }
+          ],
+          "title": "Giải tích I"
+        }
+      ],
+      "title": "Phạm vi thi giữa học kỳ 20261"
+    }
+  ]
+}
