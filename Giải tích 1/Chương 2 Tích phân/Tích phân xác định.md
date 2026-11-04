@@ -1,5 +1,6 @@
 # 1. Định nghĩa
-- Cho hàm ${}f(x){}$ xác định trên ${}[a,b]\subset\mathbb R{}$, chia ${}[a,b]{}$ thành ${}n{}$ đoạn bởi các điểm chia ${}x_{0}=a<x_{1}<x_{2}<\dots<x_{n}=b{}$, trên mỗi đoạn chia chọn đại diện ${}\xi{}$ và dựng hình chữ nhật chiều cao ${}f(\xi){}$, khi đó diện tích tổng diện tích ${}\sum_{i=1}^{n}f(\xi)\Delta_{i}{}$ xấp xỉ diện tích của hình giới hạn bởi đồ thị ${}y=f(x), x=a, x=b{}$ với ${}\Delta_{i}=x_{i}-x_{i-1}{}$. Giá trị ${}\sum_{i=1}^nf(\xi)\Delta_{i}{}$ được gọi là tổng tích phân của hàm ${}f{}$ trên ${}[a,b]{}$
+- Cho hàm ${}f(x){}$ xác định trên ${}[a,b]\subset\mathbb R{}$, chia ${}[a,b]{}$ thành ${}n{}$ đoạn bởi các điểm chia ${}x_{0}=a<x_{1}<x_{2}<\dots<x_{n}=b{}$, trên mỗi đoạn chia chọn đại diện ${}\xi{}$ và dựng hình chữ nhật chiều cao ${}f(\xi){}$, khi đó diện tích tổng diện tích ${}\sum_{i=1}^{n}f(\xi)\Delta_{i}{}$ xấp xỉ diện tích của hình giới hạn bởi đồ thị ${}y=f(x), x=a, x=b{}$ với ${}\Delta_{i}=x_{i}-x_{i-1}{}$. Giá trị ${}\sum_{i=1}^nf(\xi)\Delta_{i}{}$ được gọi là tổng tích phân của hàm ${}f{}$ trên ${}[a,b]{}$ ur motheer fat
+-
 - Nếu giới hạn ${}\lim_{\Delta \to 0}\sum_{i=1}^nf(\xi)\Delta_{i}{}$ tồn tại và không phụ thuộc cách đặt ${}a,b,\xi{}$ thì ta nói ${}f(x){}$ khả tích trên ${}[a,b]{}$. Giá trị của nó gọi là tích phân xác định của hàm ${}f(x){}$ trên ${}[a,b]{}$ được ký hiệu là ${}\int^a_{b}f(x)dx{}$.
 # 2. Tiêu chuẩn khả tích, tính chất tích phân xác định
 ## 2.1. Tiêu chuẩn khả tích
