@@ -59,3 +59,20 @@
 	3. ${}W_{1}+W_{2}{}$ là không gian con
 	4. ${}W_{1}\cup W_{2}{}$ chưa chắc là không gian con
 # 4. Tổ hợp tuyến tính
+- Một vector có thể phân tích thành tổng của bội các vector khác thì vector này gọi là tổ hợp tuyến tính của các vector cấu thành kia
+- Vector ${}\theta{}$ luôn là một tổ hợp của các vector khác
+- Tổng của 2 tổ hợp tuyến tính là một tổ hợp tuyến tính
+# 5. Hệ sinh và không gian con sinh bởi hệ vector
+
+- Cho ${}S{}$ là một tập con của không gian vector ${}V{}$. Tập hợp tất cả các tổ hợp tuyến tính của ${}S{}$ là một không gian vector con của ${}V{}$. Ta gọi không gian này là không gian con sinh bởi hệ vector ${}S{}$ ký hiệu là ${}span(S){}$
+- Hệ ${}S{}$ được gọi là hệ sinh của ${}V{}$ nếu ${}span(S)=V{}$
+- ${}S{}$ được gọi là hệ sinh tối tiểu của ${}V{}$ nếu không tồn tại ${}S'\subset S,S'\neq S{}$ sao cho ${}span(S')=V{}$
+- Không gian có một hệ sinh hữu hạn được gọi là không gian hữu hạn sinh
+- Khi ${}S=\emptyset{}$ thì ${}span(S)=\left\{\theta\right\}{}$
+- Muốn xác định một hệ vector có phải hệ sinh của một không gian ${}n{}$ chiều không, ta thành lập ma trận theo cột hoặc hàng tương ứng với tọa độ của vector và xác định hạng:
+	1. ${}r(A)=n{}$ thì hệ là hệ sinh
+	2. Ngược lại thì không
+- ${}span(S){}$ phải là không gian vector con bé nhất của ${}V{}$ chứa ${}S{}$
+- Nếu thay vector ${}u{}$ trong ${}S{}$ bằng tổ hợp tuyến tính của các vector khác cũng trong ${}S{}$ với điều kiện hệ số của vector gốc phải khác ${}0{}$ thì ta thu được không gian ${}S'{}$ có ${}span(S)=span(S'){}$
+# 6. Không gian nghiệm của hệ phương trình tuyến tính thuần nhất
+- Với mọi hệ phương trình tuyến tính thuần nhất ${}AX=\theta{}$, ta có thể giải thông qua ${}k=n-r(A){}$ tham số, đồng thời luôn chứa ${}\theta{}$, do đó tạo thành không gian con của ${}\mathbb R^n{}$
