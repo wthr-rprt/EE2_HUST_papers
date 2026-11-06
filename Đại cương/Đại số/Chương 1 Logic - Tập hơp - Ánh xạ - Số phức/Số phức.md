@@ -36,6 +36,7 @@
 - Căn bậc $n$ của số phức:
 	- $z_{k}=\sqrt[n]{r}\left[ \cos\left( \frac{\varphi + k2\pi}{n} \right) +i\sin\left( \frac{\varphi +k 2\pi}{n} \right)\right], k=\overline{0,n-1}$
 		- Nếu biểu diễn căn bậc $n$ của số $z$ trên mặt phẳng phức thì sẽ tạo thành một đa giác đều $n$ đỉnh nội tiếp trong đường tròn có tâm là gốc tọa độ và bán kính $s=\sqrt[n]{r}$
+		- Tích các căn bậc ${}n{}$ của một số phức ${}z{}$ bằng ${}1{}$ 
 		- Đặt $\epsilon=\cos\left( \frac{2\pi}{n} \right)+i\sin\left( \frac{2\pi}{n} \right)$ thì $\left\{1,\epsilon,\dots,\epsilon^{n-1}\right\}$ là $n$ căn bậc $n$ của số 1. Dễ thấy $z_{k}=z_{0}.\epsilon^k,\forall k=\overline{1,n-1}$, các căn bậc $n$ của số phức $z$ là cấp số nhân công bội $\epsilon$
 ##### 4.2. Số phức liên hợp
 ***Cho số phức $z=a+bi$ và $\overline z=a-bi$***
