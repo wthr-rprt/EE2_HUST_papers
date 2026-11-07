@@ -19,5 +19,7 @@
 - Hàm số được gọi là liên tục đều trên tập $D$ nếu với mọi số $\epsilon>0$ bé tùy ý cho trước, tồn tại $\delta>0$ sao cho với $x_{1},x_{2}\in D$ thỏa mãn $\mid x_{2}-x_{1}\mid<\delta$ thì $\mid f(x_{2})-f(x_{1})\mid<\epsilon$
 	$\longrightarrow$ Hiểu đơn giản là độ dốc hữu hạn
 - Từ định nghĩa, một hàm số liên tục đều trên $D$ thì liên tục trên $D$, còn điều ngược lại thì không
+- Định lý Heine - Cantor: Mọi tập con đóng và bị chặn thì liên tục đều
+- Đạo hàm bị chặn trong đoạn thì liên tục đều
 ## 4. Hàm số liên tục từng khúc
 $\longrightarrow$ Về cơ bản là liên tục trên nửa đoạn, các khoảng ở giữa và nửa khoảng ở cuối
