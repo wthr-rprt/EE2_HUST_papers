@@ -36,6 +36,8 @@ $$
 - Nghịch đảo của một VCB và một VCL và ngược lại
 #### So sánh các VCL
 - VCL cùng bậc và tương đương (tương tự VCB)
+- Thứ tự bậc VCL:
+	- ${}\ln x\ll x^a\ll a^x\ll x!\ll x^x{}$
 - VCL bậc cao
 	- Nếu $\lim_{x \to a }\frac{\alpha(x)}{\beta(x)}=\infty$ thì nói $\alpha(x)$ là VCL bậc cao hơn $\beta(x)$ 
 - Lược VCL bậc thấp tương tự lược VCB bậc cao

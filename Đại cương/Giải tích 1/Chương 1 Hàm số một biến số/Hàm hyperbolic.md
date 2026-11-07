@@ -13,3 +13,4 @@
 	- $\frac{1}{\sinh x}$
 ## Tính chất
 ***(Tương tự [[Hàm lượng giác]])***
+- Khác nhau về dấu trong một số trường hợp như đồng nhất thức, nhân đôi,...
