@@ -12,7 +12,7 @@
 	- Với mọi $A\in[m,M]$, tồn tại $\alpha\in[a,b]$ sao cho $f(\alpha)=A$
 	- Nếu $f(a)f(b)<0$ thì tồn tại $c\in(a,b)$ sao cho $f(c)=0$
 ## 2. Phân loại điểm gián đoạn
-- Điểm $x_{0}$ được gọi là ==điểm gián đoạn bỏ được== của hàm số $f$ nếu tồn tại $\lim_{x \to x_{0} }f(x)\in \mathbb{R}$ và $\lim_{x \to x_{0} }f(x)\neq f(x_{0})$ nếu hàm số xác định tại $x_{0}$
+- Điểm $x_{0}$ được gọi là ==điểm gián đoạn bỏ được== của hàm số $f$ nếu tồn tại $\lim_{x \to x_{0} }f(x)\in \mathbb{R}$ và $\lim_{x \to x_{0} }f(x)\neq f(x_{0})$
 - Điểm $x_{0}$ được gọi là ==điểm gián đoạn loại 1== của hàm số $f$ nếu tồn tại giới hạn trái và giới hạn phải nhưng chúng không bằng nhau và hiệu của chúng gọi là bước nhảy của $f$ tại $x_{0}$
 - Trường hợp không phải 2 trường hợp trên gọi là ==điểm gián đoạn loại 2== (giới hạn trái hoặc giới hạn phải không tồn tại hữu hạn)
 ## 3. Hàm số liên tục đều
