@@ -8,7 +8,7 @@
 - Lấy hiệu ($\setminus$), giống AND NOT
 - Hiệu đối xứng ($\Delta$), giống XOR
 - Nhân Descartes ($\times$), giống chỉnh hợp
-	- Quan trọng trong các chương sau khi nhắc đến lũy thừa của tập $\mathbb{R}$ ([[Không gian đa chiều]])
+	- Quan trọng trong các chương sau khi nhắc đến lũy thừa của tập $\mathbb{R}$ ([[Không gian hữu hạn chiều]])
 		- Điều này có thể hình dung như với $\mathbb{R}^2=Oxy$ hoặc $\mathbb{R}^3=Oxyz$ (không chính xác nhưng có thể hiểu theo cách này)
 ## 3. Tính chất của các phép toán tập hợp
 - Tính giao hoán (áp dụng với $\cup,\cap,\Delta$)
