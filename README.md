@@ -30,4 +30,4 @@ Plugin command names and settings can vary by version. For more detail, see the 
 
 ## Feedback and contributions
 
-Please share constructive criticism, corrections, or ideas through GitHub issues or pull requests. Thank you for helping improve the vault!
+Please share constructive criticism, corrections, or ideas through GitHub issues or pull requests. Improvement regarding the English version is very welcomed. Thank you for helping improve the vault!
