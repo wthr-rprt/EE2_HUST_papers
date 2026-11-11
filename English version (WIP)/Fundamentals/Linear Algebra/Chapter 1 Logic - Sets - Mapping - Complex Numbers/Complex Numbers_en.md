@@ -1,4 +1,4 @@
-- Complex numbers form a field in [[Algebraic Structures_en]]
+- Complex numbers form a field in algebraic structure
 ### 1. Definition and structure
 
 The set of complex numbers $\mathbb{C}$ is an extension field of $\mathbb{R}$, constructed from the set $\mathbb{R} \times \mathbb{R}$ with addition and multiplication defined in a special way.
