@@ -1,6 +1,6 @@
 # EE2_HUST_papers
 
-This repository is a public **Obsidian vault** for organizing papers and notes related to the Automation Engineering at HUST. It is shared for public viewing and learning. The vault is a work in progress, and constructive criticism, corrections, and suggestions are very welcome. Some of the LaTeX may not work outside Obsidian, use at your own risk.
+This repository is a public **Obsidian vault** for organizing papers and notes related to the Automation Engineering at HUST. It is shared for public viewing and learning. The vault is a work in progress, and constructive criticism, corrections, and suggestions are very welcome. Some of the LaTeX may not work outside Obsidian, English version of the repo **IS NOT** the intended way to use this repo and may have plenty of errors, use at your own risk.
 
 ## Open the vault in Obsidian
 
