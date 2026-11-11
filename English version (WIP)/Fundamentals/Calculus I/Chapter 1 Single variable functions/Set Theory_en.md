@@ -1,7 +1,3 @@
-# Set Theory
-
-This is an English translation of the original Vietnamese note. The Vietnamese note remains unchanged in the vault.
-
 ## 1. Sets
 
 A set contains elements and subsets. If two sets are subsets of each other, then they are equal.

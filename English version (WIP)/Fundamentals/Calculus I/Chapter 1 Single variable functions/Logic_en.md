@@ -1,7 +1,3 @@
-# Logic
-
-This is an English translation of the original Vietnamese note. The Vietnamese note remains unchanged in the vault.
-
 ## 1. Mathematical propositions and truth values
 
 A mathematical proposition is a statement that is either true or false, with no ambiguity. If the information is insufficient to decide, it is called a hypothesis, often denoted by symbols such as $A$, $B$, $C$, $D$, and so on.

@@ -1,11 +1,4 @@
-# Complex Numbers
-
-This is an English translation of the original Vietnamese note. The Vietnamese note remains unchanged in the vault.
-
-- Complex numbers form a field in [[Cấu trúc đại số]].
-
-## Complex number field
-
+- Complex numbers form a field in [[Algebraic Structures_en]]
 ### 1. Definition and structure
 
 The set of complex numbers $\mathbb{C}$ is an extension field of $\mathbb{R}$, constructed from the set $\mathbb{R} \times \mathbb{R}$ with addition and multiplication defined in a special way.

@@ -1,7 +1,3 @@
-# Algebraic Structures
-
-This is an English translation of the original Vietnamese note. The Vietnamese note remains unchanged in the vault.
-
 ## 0. Binary operations
 
 Let $X \neq \emptyset$ be a set. A binary operation on $X$, denoted by $*$, is a rule that assigns to each pair $(x,y) \in X \times X$ a unique element of $X$.

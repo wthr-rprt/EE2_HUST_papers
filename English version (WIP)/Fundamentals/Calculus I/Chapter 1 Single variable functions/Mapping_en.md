@@ -1,7 +1,3 @@
-# Mapping
-
-This is an English translation of the original Vietnamese note. The Vietnamese note remains unchanged in the vault.
-
 ## 1. Definition
 
 Let $X$ and $Y$ be two nonempty sets. A mapping (or function) $f$ from $X$ to $Y$ is a rule that assigns to each element $x \in X$ exactly one element $y \in Y$.
